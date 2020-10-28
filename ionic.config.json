@@ -1,0 +1,7 @@
+{
+  "name": "fyp",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
